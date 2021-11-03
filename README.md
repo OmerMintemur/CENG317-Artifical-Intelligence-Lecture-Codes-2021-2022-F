@@ -2,4 +2,6 @@
 These are the example codes-homeworks for CENG317 given by me in AYBU
 
 # Vacuum Cleaner
-This is simple vacuum cleaner example with two locations.
+This is simple vacuum cleaner example with two locations (Java)
+# BFS_DFS
+Simple BFS&DFS implementation (Python)
