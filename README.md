@@ -5,3 +5,5 @@ These are the example codes-homeworks for CENG317 given by me in AYBU
 This is simple vacuum cleaner example with two locations (Java)
 # BFS_DFS
 Simple BFS&DFS implementation (Python)
+# Homework_1
+Simple agent that cleans 4x4 matrix
